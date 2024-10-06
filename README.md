@@ -25,12 +25,18 @@ I'm an software developer building my version of digital world one step at a tim
 <br />
 
 #
-### 📊 Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tushar2513&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tushar2513&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar2513&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tushar2513&show_icons=true&theme=gruvbox)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tushar2513&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+---
+[![](https://visitcount.itsvg.in/api?id=tushar2513&icon=1&color=5)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 #
 
 <!--
